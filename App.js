@@ -8,7 +8,7 @@ const App = () => {
     { id: 1, name: 'Apple' },
     { id: 2, name: 'Ananas' },
     { id: 3, name: 'Anguur' },
-    { id: 4, name: 'Yadu' },
+    { id: 4, name: 'Aadu' },
     { id: 5, name: 'Litchi' },
     { id: 6, name: 'Strawberry' },
     { id: 7, name: 'Blueberry' },
